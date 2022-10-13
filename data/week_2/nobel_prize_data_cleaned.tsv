@@ -1,5 +1,4 @@
 born_in	category	country	date_of_birth	date_of_death	gender	link	name	place_of_birth	place_of_death	text	year	award_age
-	Physiology or Medicine	Argentina	1927-10-08	2002-03-24	male	http://en.wikipedia.org/wiki/C%C3%A9sar_Milstein	César Milstein	Bahía Blanca ,  Argentina	Cambridge , England	César Milstein , Physiology or Medicine, 1984	1984	57
 Bosnia and Herzegovina	Literature	Bosnia and Herzegovina	1892-10-09	1975-03-13	male	http://en.wikipedia.org/wiki/Ivo_Andric	Ivo Andric	Dolac (village near Travnik), Austria-Hungary (present-day Bosnia and Herzegovina)	Belgrade, SR Serbia, SFR Yugoslavia (present-day Serbia)	Ivo Andric *,  born in then  Austria–Hungary , now Bosnia and Herzegovina , Literature, 1961	1961	69
 	Peace	Belgium	1829-07-26	1912-10-06	male	http://en.wikipedia.org/wiki/Auguste_Marie_Fran%C3%A7ois_Beernaert	Auguste Beernaert	Ostend ,  Netherlands  (now  Belgium )	Lucerne ,  Switzerland	Auguste Beernaert , Peace, 1909	1909	80
 	Literature	Belgium	1862-08-29	1949-05-06	male	http://en.wikipedia.org/wiki/Maurice_Maeterlinck	Maurice Maeterlinck	Ghent ,  Belgium	Nice ,  France	Maurice Maeterlinck , Literature, 1911	1911	49
@@ -70,6 +69,7 @@ Russia	Chemistry	Germany	1853-09-02	1932-04-04	male	http://en.wikipedia.org/wiki
 	Physiology or Medicine	Germany	1853-09-16	1927-07-05	male	http://en.wikipedia.org/wiki/Albrecht_Kossel	Albrecht Kossel	Rostock	Heidelberg ,  Germany	Albrecht Kossel , Physiology or Medicine, 1910	1910	57
 	Literature	Italy	1896-10-12	1981-09-12	male	http://en.wikipedia.org/wiki/Eugenio_Montale	Eugenio Montale	Genoa , Italy	Milan , Italy	Eugenio Montale , Literature, 1975	1975	79
 	Physics	Italy	1934-03-31		male	http://en.wikipedia.org/wiki/Carlo_Rubbia	Carlo Rubbia	Gorizia ,  Friuli-Venezia Giulia ,  Italy		Carlo Rubbia , Physics, 1984	1984	50
+	Physiology or Medicine	Italy	1909-04-22	2012-12-30	female	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	Rita Levi-Montalcini	Turin ,  Italy	Rome ,  Italy	Rita Levi-Montalcini , Physiology or Medicine, 1986	1986	77
 	Literature	Italy	1926-03-24		male	http://en.wikipedia.org/wiki/Dario_Fo	Dario Fo	Leggiuno Sangiano, in Lombardy's Province of Varese, near the eastern shore of Lago Maggiore		Dario Fo , Literature, 1997	1997	71
 Italy	Physiology or Medicine	Italy	1937-10-06		male	http://en.wikipedia.org/wiki/Mario_Capecchi	Mario Capecchi	Verona ,  Italy		Mario Capecchi *, Physiology or Medicine, 2007	2007	70
 Ukraine	Literature	Israel	1888-07-17	1970-02-17	male	http://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon	Shmuel Yosef Agnon	Buczacz ,  Galicia  ( Buchach ,  Ukraine )	Jerusalem ,  Israel	Shmuel Yosef Agnon ,  born in what was then Austria-Hungary, now Ukraine , Literature, 1966	1966	78
@@ -77,8 +77,8 @@ Russia	Peace	Israel	1913-08-16	1992-03-09	male	http://en.wikipedia.org/wiki/Mena
 Poland	Peace	Israel	1923-08-02		male	http://en.wikipedia.org/wiki/Shimon_Peres	Shimon Peres	Poland		Shimon Peres ,  born in what was then Poland, now Belarus , Peace, 1994	1994	71
 	Peace	Israel	1922-03-01	1995-11-04	male	http://en.wikipedia.org/wiki/Yitzhak_Rabin	Yitzhak Rabin	Jerusalem ,  Mandatory Palestine	Tel Aviv ,  Israel	Yitzhak Rabin , Peace, 1994	1994	72
 	Economics	Israel	1934-03-05		male	http://en.wikipedia.org/wiki/Daniel_Kahneman	Daniel Kahneman	Tel Aviv, Israel		Daniel Kahneman , Economics, 2002	2002	68
+	Chemistry	Israel	1937-12-31		male	http://en.wikipedia.org/wiki/Avram_Hershko	Avram Hershko	Karcag, Hungary		Avram Hershko ,  born in Hungary , Chemistry, 2004	2004	67
 	Chemistry	Israel	1947-10-01		male	http://en.wikipedia.org/wiki/Aaron_Ciechanover	Aaron Ciechanover	Haifa, Mandatory Palestine		Aaron Ciechanover , Chemistry, 2004	2004	57
-	Economics	Israel	1930-06-08		male	http://en.wikipedia.org/wiki/Robert_Aumann	Robert Aumann	Frankfurt am Main ,  Germany		Robert Aumann ,  born in Germany , Economics, 2005	2005	75
 Russia	Physics	Netherlands	1958-10-01		male	http://en.wikipedia.org/wiki/Andre_Geim	Andre Geim	Sochi , Russia		Andre Geim ,  born in Russia , Physics, 2010	2010	52
 	Peace	Myanmar (Burma)	1945-06-19		female	http://en.wikipedia.org/wiki/Aung_San_Suu_Kyi	Aung San Suu Kyi	Rangoon ,  Myanmar		Aung San Suu Kyi , Peace, 1991	1991	46
 	Peace	Mexico	1911-03-20	1991-09-02	male	http://en.wikipedia.org/wiki/Alfonso_Garc%C3%ADa_Robles	Alfonso García Robles	Zamora ,  Michoacán ,  Mexico		Alfonso García Robles , Peace, 1982	1982	71
@@ -94,6 +94,7 @@ Mexico	Chemistry	Mexico	1943-03-19		male	http://en.wikipedia.org/wiki/Mario_J._M
 	Literature	Spain	1916-05-11	2002-01-17	male	http://en.wikipedia.org/wiki/Camilo_Jos%C3%A9_Cela	Camilo José Cela	Padrón, Galicia, Spain	Madrid, Spain	Camilo José Cela , Literature, 1989	1989	73
 	Physiology or Medicine	South Africa	1899-01-30	1972-08-11	male	http://en.wikipedia.org/wiki/Max_Theiler	Max Theiler	Pretoria ,  South Africa	New Haven, Connecticut	Max Theiler , Physiology or Medicine, 1951	1951	52
 	Peace	South Africa	1898-01-01	1967-07-21	male	http://en.wikipedia.org/wiki/Albert_Lutuli	Albert Lutuli	Bulawayo ,  Southern Rhodesia ,  Africa	Stanger ,  KwaZulu-Natal ,  South Africa ,  Africa	Albert Lutuli , Peace, 1960	1960	62
+Lithuania	Chemistry	South Africa	1926-08-11		male	http://en.wikipedia.org/wiki/Aaron_Klug	Aaron Klug	Želva, Lithuania		Aaron Klug , Chemistry, 1982	1982	56
 	Peace	South Africa	1931-10-07		male	http://en.wikipedia.org/wiki/Desmond_Tutu	Desmond Tutu	Klerksdorp ,  Western Transvaal , South Africa		Desmond Tutu , Peace, 1984	1984	53
 	Literature	South Africa	1923-11-23	2014-07-13	female	http://en.wikipedia.org/wiki/Nadine_Gordimer	Nadine Gordimer	Springs, Gauteng ,  Johannesburg ,  South Africa	Johannesburg, South Africa	Nadine Gordimer , Literature, 1991	1991	68
 	Peace	South Africa	1918-07-18	2013-12-05	male	http://en.wikipedia.org/wiki/Nelson_Mandela	Nelson Mandela	Mvezo ,  Cape Province ,  Union of South Africa	Johannesburg , South Africa	Nelson Mandela , Peace, 1993	1993	75
@@ -101,10 +102,11 @@ Mexico	Chemistry	Mexico	1943-03-19		male	http://en.wikipedia.org/wiki/Mario_J._M
 	Literature	South Africa	1940-02-09		male	http://en.wikipedia.org/wiki/J._M._Coetzee	J. M. Coetzee	Cape Town, South Africa		J. M. Coetzee , Literature, 2003	2003	63
 Bulgaria	Literature	United Kingdom	1905-07-25	1994-08-14	male	http://en.wikipedia.org/wiki/Elias_Canetti	Elias Canetti	Rousse ,  Bulgaria	Zurich, Switzerland	Elias Canetti ,  born in Bulgaria , Literature, 1981	1981	76
 	Physiology or Medicine	United Kingdom	1927-03-29	2004-11-19	male	http://en.wikipedia.org/wiki/John_Robert_Vane	John Robert Vane	Tardebigge ,  Worcestershire	Princess Royal University Hospital ,  Kent	John Robert Vane , Physiology or Medicine, 1982	1982	55
-Lithuania	Chemistry	United Kingdom	1926-08-11		male	http://en.wikipedia.org/wiki/Aaron_Klug	Aaron Klug	Želva, Lithuania		Aaron Klug ,  born in Lithuania , Chemistry, 1982	1982	56
 	Literature	United Kingdom	1911-09-19	1993-06-19	male	http://en.wikipedia.org/wiki/William_Golding	William Golding	St. Columb Minor , Newquay, Cornwall, UK	Perranarworthal , Cornwall, UK	William Golding , Literature, 1983	1983	72
 	Economics	United Kingdom	1913-08-30	1991-12-06	male	http://en.wikipedia.org/wiki/Richard_Stone	Richard Stone	London, England	Cambridge, England	Richard Stone , Economics, 1984	1984	71
+	Physiology or Medicine	United Kingdom	1927-10-08	2002-03-24	male	http://en.wikipedia.org/wiki/C%C3%A9sar_Milstein	César Milstein	Bahía Blanca ,  Argentina	Cambridge , England	César Milstein ,  born in Argentina , Physiology or Medicine, 1984	1984	57
 	Physiology or Medicine	United Kingdom	1924-06-14	2010-03-22	male	http://en.wikipedia.org/wiki/James_W._Black	James W. Black	Uddingston, Lanarkshire, Scotland	London	James W. Black , Physiology or Medicine, 1988	1988	64
+	Economics	United Kingdom	1910-12-29	2013-09-02	male	http://en.wikipedia.org/wiki/Ronald_Coase	Ronald Coase	Willesden near London	Chicago ,  Illinois ,  United States	Ronald Coase , based in the United States  Economics, 1991	1991	81
 	Physiology or Medicine	United Kingdom	1943-09-06		male	http://en.wikipedia.org/wiki/Richard_J._Roberts	Richard J. Roberts	Derby , England, UK		Richard J. Roberts , Physiology or Medicine, 1993	1993	50
 Poland	Peace	United Kingdom	1908-11-04	2005-08-31	male	http://en.wikipedia.org/wiki/Joseph_Rotblat	Joseph Rotblat	Warsaw ,  Poland	London ,  England	Joseph Rotblat ,  born in then Russian Empire, now Poland , Peace, 1995	1995	87
 	Economics	United Kingdom	1936-07-05		male	http://en.wikipedia.org/wiki/James_A._Mirrlees	James A. Mirrlees	Minnigaff, Kirkcudbrightshire, Scotland		James A. Mirrlees , Economics, 1996	1996	60
@@ -137,10 +139,9 @@ Germany	Physiology or Medicine	United Kingdom	1906-06-19	1979-08-12	male	http://
 	Economics	United States	1923-06-02		male	http://en.wikipedia.org/wiki/Lloyd_S._Shapley	Lloyd S. Shapley	Cambridge, Massachusetts		Lloyd S. Shapley , Economics, 2012	2012	89
 	Economics	United States	1951-12-19		male	http://en.wikipedia.org/wiki/Alvin_E._Roth	Alvin E. Roth	New York City		Alvin E. Roth , Economics, 2012	2012	61
 	Physiology or Medicine	United States	1950-11-03		male	http://en.wikipedia.org/wiki/James_Rothman	James Rothman	Haverhill, Massachusetts		James Rothman , Physiology or Medicine, 2013	2013	63
-	Physiology or Medicine	United States	1955-12-22		male	http://en.wikipedia.org/wiki/Thomas_C._S%C3%BCdhof	Thomas C. Südhof	Göttingen, Germany		Thomas C. Südhof ,  born in Germany , Physiology or Medicine, 2013	2013	58
 	Physiology or Medicine	United States	1948-12-30		male	http://en.wikipedia.org/wiki/Randy_Schekman	Randy Schekman	Saint Paul, Minnesota, USA		Randy Schekman , Physiology or Medicine, 2013	2013	65
 Austria	Chemistry	United States	1930-03-15		male	http://en.wikipedia.org/wiki/Martin_Karplus	Martin Karplus	Vienna ,  Austria		Martin Karplus ,  born in Austria , Chemistry, 2013	2013	83
-	Chemistry	United States	1940-11-20		male	http://en.wikipedia.org/wiki/Arieh_Warshel	Arieh Warshel	Kibbutz Sde Nahum, Israel		Arieh Warshel ,  born in Israel , Chemistry, 2013	2013	73
+South Africa	Chemistry	United States	1947-05-09		male	http://en.wikipedia.org/wiki/Michael_Levitt	Michael Levitt	Pretoria, South Africa		Michael Levitt ,  born in South Africa , Chemistry, 2013	2013	66
 	Economics	United States	1920-11-05		male	http://en.wikipedia.org/wiki/Douglass_C._North	Douglass C. North	Cambridge, Massachusetts		Douglass C. North , Economics, 1993	1993	73
 	Economics	United States	1926-07-01	2013-06-11	male	http://en.wikipedia.org/wiki/Robert_W._Fogel	Robert W. Fogel	New York City	Oak Lawn, Illinois , U.S.	Robert W. Fogel , Economics, 1993	1993	67
 	Chemistry	United States	1944-12-28		male	http://en.wikipedia.org/wiki/Kary_B._Mullis	Kary B. Mullis	Lenoir, North Carolina, United States		Kary B. Mullis , Chemistry, 1993	1993	49
@@ -180,7 +181,6 @@ India	Physics	United States	1910-10-19	1995-08-21	male	http://en.wikipedia.org/w
 	Physiology or Medicine	United States	1922-01-09	2011-11-09	male	http://en.wikipedia.org/wiki/Har_Gobind_Khorana	Har Gobind Khorana	Raipur ,  Punjab , Pakistan	Concord, Massachusetts , U.S.	Har Gobind Khorana ,  born in British India, now Pakistan , Physiology or Medicine, 1968	1968	46
 	Physiology or Medicine	United States	1922-01-28	1993-02-11	male	http://en.wikipedia.org/wiki/Robert_W._Holley	Robert W. Holley	Urbana, Illinois	Los Gatos, California	Robert W. Holley , Physiology or Medicine, 1968	1968	46
 	Physics	United States	1911-06-13	1988-09-01	male	http://en.wikipedia.org/wiki/Luis_Walter_Alvarez	Luis Alvarez	San Francisco, California ,  USA	Berkeley, California	Luis Alvarez , Physics, 1968	1968	57
-	Chemistry	United States	1903-11-27	1976-10-05	male	http://en.wikipedia.org/wiki/Lars_Onsager	Lars Onsager	Christiania , ( Oslo ),  Norway	Coral Gables ,  Florida ,  U.S.	Lars Onsager ,  born in Norway , Chemistry, 1968	1968	65
 Italy	Physiology or Medicine	United States	1912-08-13	1991-02-06	male	http://en.wikipedia.org/wiki/Salvador_Luria	Salvador Luria	Turin ,  Italy	Lexington, Massachusetts	Salvador Luria ,  born in Italy , Physiology or Medicine, 1969	1969	57
 	Physiology or Medicine	United States	1908-12-04	1997-05-22	male	http://en.wikipedia.org/wiki/Alfred_Hershey	Alfred Hershey	Hasings,Minnesota	Syosset, New York	Alfred Hershey , Physiology or Medicine, 1969	1969	61
 Germany	Physiology or Medicine	United States	1906-09-04	1981-03-09	male	http://en.wikipedia.org/wiki/Max_Delbr%C3%BCck	Max Delbrück	Berlin ,  German Empire	Pasadena, California ,  United States	Max Delbrück ,  born in Germany , Physiology or Medicine, 1969	1969	63
@@ -239,7 +239,6 @@ Canada	Chemistry	United States	1895-05-12	1982-03-28	male	http://en.wikipedia.or
 	Chemistry	United States	1912-04-19	1999-02-25	male	http://en.wikipedia.org/wiki/Glenn_Theodore_Seaborg	Glenn Theodore Seaborg	Ishpeming , Michigan	Lafayette , California	Glenn Theodore Seaborg , Chemistry, 1951	1951	39
 	Chemistry	United States	1907-09-18	1991-09-07	male	http://en.wikipedia.org/wiki/Edwin_M._McMillan	Edwin M. McMillan	Redondo Beach, California , USA	El Cerrito, Contra Costa County, California , USA	Edwin M. McMillan , Chemistry, 1951	1951	44
 Ukraine	Physiology or Medicine	United States	1888-07-22	1973-08-16	male	http://en.wikipedia.org/wiki/Selman_A._Waksman	Selman A. Waksman	Pryluky , near  Kiev , Ukraine	Woods Hole ,  Barnstable County, Massachusetts , United States of America	Selman A. Waksman ,  born in then Russian Empire, now Ukraine , Physiology or Medicine, 1952	1952	64
-	Physics	United States	1905-10-23	1983-09-10	male	http://en.wikipedia.org/wiki/Felix_Bloch	Felix Bloch	Zürich , Switzerland	Zürich , Switzerland	Felix Bloch ,  born in Switzerland , Physics, 1952	1952	47
 	Physics	United States	1912-08-30	1997-03-07	male	http://en.wikipedia.org/wiki/E._M._Purcell	E. M. Purcell	Taylorville, Illinois ,  USA	Cambridge, Massachusetts ,  USA	E. M. Purcell , Physics, 1952	1952	40
 	Physiology or Medicine	United States	1899-06-12	1986-07-24	male	http://en.wikipedia.org/wiki/Fritz_Lipmann	Fritz Lipmann	Königsberg ,  Germany	Poughkeepsie, New York , U.S.	Fritz Lipmann ,  born in then Germany, now Russia , Physiology or Medicine, 1953	1953	54
 	Peace	United States	1880-12-31	1959-10-16	male	http://en.wikipedia.org/wiki/George_Marshall	George C. Marshall	Uniontown ,  Pennsylvania ,  United States	Washington, D.C. ,  United States	George C. Marshall , Peace, 1953	1953	73
@@ -257,7 +256,6 @@ Ukraine	Physiology or Medicine	United States	1888-07-22	1973-08-16	male	http://e
 	Physics	United States	1908-05-23	1991-01-30	male	http://en.wikipedia.org/wiki/John_Bardeen	John Bardeen	Madison, Wisconsin , U.S.	Boston, Massachusetts , U.S.	John Bardeen , Physics, 1956	1956	48
 	Physics	United States	1910-02-13	1989-08-12	male	http://en.wikipedia.org/wiki/William_B._Shockley	William B. Shockley	London, England	Stanford, California	William B. Shockley , Physics, 1956	1956	46
 	Physics	United States	1926-11-24		male	http://en.wikipedia.org/wiki/Tsung-Dao_Lee	Tsung-Dao Lee	Shanghai ,  China		Tsung-Dao Lee ,  born in China , Physics, 1957	1957	31
-	Physics	United States	1922-09-22		male	http://en.wikipedia.org/wiki/Chen_Ning_Yang	Chen Ning Yang	Hefei ,  Anhui ,  China		Chen Ning Yang ,  born in China , Physics, 1957	1957	35
 	Physiology or Medicine	United States	1909-12-14	1975-11-05	male	http://en.wikipedia.org/wiki/Edward_Lawrie_Tatum	Edward Tatum	Boulder, Colorado	New York City	Edward Tatum , Physiology or Medicine, 1958	1958	49
 	Physiology or Medicine	United States	1925-05-23	2008-02-02	male	http://en.wikipedia.org/wiki/Joshua_Lederberg	Joshua Lederberg	Montclair, New Jersey , USA	NewYork-Presbyterian Hospital , New York City, USA	Joshua Lederberg , Physiology or Medicine, 1958	1958	33
 	Physiology or Medicine	United States	1903-10-22	1989-06-09	male	http://en.wikipedia.org/wiki/George_Wells_Beadle	George Beadle	Wahoo, Nebraska ,  USA	Chicago, Illinois ,  USA	George Beadle , Physiology or Medicine, 1958	1958	55
@@ -337,7 +335,6 @@ Canada	Chemistry	United States	1915-11-30	2005-11-16	male	http://en.wikipedia.or
 	Economics	United States	1918-06-10	2003-09-25	male	http://en.wikipedia.org/wiki/Franco_Modigliani	Franco Modigliani	Rome	Cambridge, Massachusetts	Franco Modigliani ,  born in Italy , Economics, 1985	1985	67
 	Chemistry	United States	1917-02-14	2011-10-23	male	http://en.wikipedia.org/wiki/Herbert_A._Hauptman	Herbert A. Hauptman	New York City ,  New York ,  U.S.A.	Buffalo, New York	Herbert A. Hauptman , Chemistry, 1985	1985	68
 	Chemistry	United States	1918-06-18	2013-06-06	male	http://en.wikipedia.org/wiki/Jerome_Karle	Jerome Karle	New York City	Annandale, Virginia	Jerome Karle , Chemistry, 1985	1985	67
-	Physiology or Medicine	United States	1909-04-22	2012-12-30	female	http://en.wikipedia.org/wiki/Rita_Levi-Montalcini	Rita Levi-Montalcini	Turin ,  Italy	Rome ,  Italy	Rita Levi-Montalcini ,  born in Italy , Physiology or Medicine, 1986	1986	77
 	Physiology or Medicine	United States	1922-11-17		male	http://en.wikipedia.org/wiki/Stanley_Cohen_(doctor)	Stanley Cohen	Brooklyn, New York		Stanley Cohen , Physiology or Medicine, 1986	1986	64
 Romania	Peace	United States	1928-09-09		male	http://en.wikipedia.org/wiki/Elie_Wiesel	Elie Wiesel	Sighet ,  Maramureș County ,  Romania		Elie Wiesel ,  born in Romania , Peace, 1986	1986	58
 	Economics	United States	1919-10-03	2013-01-09	male	http://en.wikipedia.org/wiki/James_M._Buchanan	James M. Buchanan	Murfreesboro, Tennessee	Blacksburg, Virginia	James M. Buchanan , Economics, 1986	1986	67
@@ -365,9 +362,7 @@ Germany	Physics	United States	1922-09-09		male	http://en.wikipedia.org/wiki/Hans
 	Economics	United States	1934-06-16		male	http://en.wikipedia.org/wiki/William_F._Sharpe	William F. Sharpe	Boston, Massachusetts ,  U.S.		William F. Sharpe , Economics, 1990	1990	56
 	Economics	United States	1923-05-16	2000-06-03	male	http://en.wikipedia.org/wiki/Merton_H._Miller	Merton H. Miller	Boston ,  Massachusetts	Chicago ,  Illinois	Merton H. Miller , Economics, 1990	1990	67
 	Chemistry	United States	1928-07-12		male	http://en.wikipedia.org/wiki/Elias_James_Corey	Elias James Corey	Methuen, Massachusetts , United States		Elias James Corey , Chemistry, 1990	1990	62
-	Economics	United States	1910-12-29	2013-09-02	male	http://en.wikipedia.org/wiki/Ronald_Coase	Ronald Coase	Willesden near London	Chicago ,  Illinois ,  United States	Ronald Coase ,  born in the United Kingdom , Economics, 1991	1991	81
 	Physiology or Medicine	United States	1918-06-06	2009-12-21	male	http://en.wikipedia.org/wiki/Edwin_G._Krebs	Edwin G. Krebs	Lansing, Iowa	Seattle, Washington	Edwin G. Krebs , Physiology or Medicine, 1992	1992	74
-	Physiology or Medicine	United States	1920-04-06		male	http://en.wikipedia.org/wiki/Edmond_H._Fischer	Edmond H. Fischer	Shanghai ,  China		Edmond H. Fischer ,  born in China , Physiology or Medicine, 1992	1992	72
 	Economics	United States	1930-12-02	2014-05-03	male	http://en.wikipedia.org/wiki/Gary_S._Becker	Gary S. Becker	Pottsville, Pennsylvania , U.S.	Chicago, Illinois, U.S.	Gary S. Becker , Economics, 1992	1992	62
 Canada	Chemistry	United States	1923-07-21		male	http://en.wikipedia.org/wiki/Rudolph_A._Marcus	Rudolph A. Marcus	Montreal ,  Quebec		Rudolph A. Marcus ,  born in Canada , Chemistry, 1992	1992	69
 	Physiology or Medicine	United States	1944-06-06		male	http://en.wikipedia.org/wiki/Phillip_Allen_Sharp	Phillip A. Sharp	Falmouth, Kentucky		Phillip A. Sharp , Physiology or Medicine, 1993	1993	49
@@ -435,6 +430,7 @@ United Kingdom	Physics	United States	1938-03-26		male	http://en.wikipedia.org/wi
 	Economics	United States	1921-04-14		male	http://en.wikipedia.org/wiki/Thomas_Schelling	Thomas Schelling	Oakland, California ,  USA		Thomas Schelling , Economics, 2005	2005	84
 	Chemistry	United States	1945-01-04		male	http://en.wikipedia.org/wiki/Richard_R._Schrock	Richard R. Schrock	Berne, Indiana ,  United States		Richard R. Schrock , Chemistry, 2005	2005	60
 	Chemistry	United States	1942-02-27		male	http://en.wikipedia.org/wiki/Robert_H._Grubbs	Robert H. Grubbs	Possum Trot ,  Kentucky   USA		Robert H. Grubbs , Chemistry, 2005	2005	63
+	Economics	United States	1930-06-08		male	http://en.wikipedia.org/wiki/Robert_Aumann	Robert Aumann	Frankfurt am Main ,  Germany		Robert Aumann ,  born in Germany , Economics, 2005	2005	75
 	Physiology or Medicine	United States	1960-10-18		male	http://en.wikipedia.org/wiki/Craig_C._Mello	Craig C. Mello	New Haven ,  Connecticut		Craig C. Mello , Physiology or Medicine, 2006	2006	46
 	Physiology or Medicine	United States	1959-04-27		male	http://en.wikipedia.org/wiki/Andrew_Z._Fire	Andrew Z. Fire	Palo Alto ,  California		Andrew Z. Fire , Physiology or Medicine, 2006	2006	47
 	Physics	United States	1945-02-20		male	http://en.wikipedia.org/wiki/George_F._Smoot	George F. Smoot	Jacksonville, Florida, United States		George F. Smoot , Physics, 2006	2006	61
@@ -447,10 +443,11 @@ United Kingdom	Physiology or Medicine	United States	1925-06-23		male	http://en.w
 	Economics	United States	1951-03-29		male	http://en.wikipedia.org/wiki/Roger_B._Myerson	Roger B. Myerson	Boston ,  Massachusetts		Roger B. Myerson , Economics, 2007	2007	56
 	Economics	United States	1950-12-12		male	http://en.wikipedia.org/wiki/Eric_S._Maskin	Eric S. Maskin	New York City, New York   USA		Eric S. Maskin , Economics, 2007	2007	57
 Russia	Economics	United States	1917-08-21	2008-06-24	male	http://en.wikipedia.org/wiki/Leonid_Hurwicz	Leonid Hurwicz	Moscow ,  Russia	Minneapolis, Minnesota ,  United States	Leonid Hurwicz ,  born in Russia , Economics, 2007	2007	90
-	Chemistry	United States	1928-08-27		male	http://en.wikipedia.org/wiki/Osamu_Shimomura	Osamu Shimomura	Kyoto ,  Japan		Osamu Shimomura ,  born in Japan , Chemistry, 2008	2008	80
+	Physics	United States	1921-01-18		male	http://en.wikipedia.org/wiki/Yoichiro_Nambu	Yoichiro Nambu	Tokyo, Japan		Yoichiro Nambu ,  born in Japan , Physics, 2008	2008	87
 	Chemistry	United States	1947-01-15		male	http://en.wikipedia.org/wiki/Martin_Chalfie	Martin Chalfie	Chicago ,  IL		Martin Chalfie , Chemistry, 2008	2008	61
 	Chemistry	United States	1952-02-01		male	http://en.wikipedia.org/wiki/Roger_Yonchien_Tsien	Roger Yonchien Tsien	New York City, United States		Roger Yonchien Tsien , Chemistry, 2008	2008	56
 	Economics	United States	1953-02-28		male	http://en.wikipedia.org/wiki/Paul_Krugman	Paul Krugman	Albany, New York, USA		Paul Krugman , Economics, 2008	2008	55
+	Physiology or Medicine	United States	1952-11-09		male	http://en.wikipedia.org/wiki/Jack_W._Szostak	Jack W. Szostak	London ,  United Kingdom		Jack W. Szostak ,  born in United Kingdom , Physiology or Medicine, 2009	2009	57
 	Physiology or Medicine	United States	1961-04-15		female	http://en.wikipedia.org/wiki/Carol_W._Greider	Carol W. Greider	San Diego, California , United States		Carol W. Greider , Physiology or Medicine, 2009	2009	48
 	Physiology or Medicine	United States	1948-11-26		female	http://en.wikipedia.org/wiki/Elizabeth_Blackburn	Elizabeth Blackburn	Hobart ,  Tasmania , Australia		Elizabeth Blackburn ,  born in Australia , Physiology or Medicine, 2009	2009	61
 	Physics	United States	1930-05-10		male	http://en.wikipedia.org/wiki/George_E._Smith	George E. Smith	White Plains, New York		George E. Smith , Physics, 2009	2009	79
@@ -466,7 +463,6 @@ India	Chemistry	United States	1952-01-01		male	http://en.wikipedia.org/wiki/Venk
 	Economics	United States	1939-02-02	2014-01-09	male	http://en.wikipedia.org/wiki/Dale_T._Mortensen	Dale T. Mortensen	Enterprise, Oregon, USA	Wilmette, Illinois	Dale T. Mortensen , Economics, 2010	2010	71
 	Economics	United States	1940-04-29		male	http://en.wikipedia.org/wiki/Peter_A._Diamond	Peter A. Diamond	New York, New York		Peter A. Diamond , Economics, 2010	2010	70
 	Physiology or Medicine	United States	1957-12-29		male	http://en.wikipedia.org/wiki/Bruce_Beutler	Bruce Beutler	Chicago		Bruce Beutler , Physiology or Medicine, 2011	2011	54
-	Physiology or Medicine	United States	1943-01-14	2011-09-30	male	http://en.wikipedia.org/wiki/Ralph_M._Steinman	Ralph M. Steinman	Montreal, Quebec, Canada	New York City, New York, U.S.	Ralph M. Steinman ,  born in Canada , Physiology or Medicine, 2011	2011	68
 	Economics	United States	1939-02-14		male	http://en.wikipedia.org/wiki/Eugene_F._Fama	Eugene F. Fama	Boston, Massachusetts		Eugene F. Fama , Economics, 2013	2013	74
 	Economics	United States	1952-10-26		male	http://en.wikipedia.org/wiki/Lars_Peter_Hansen	Lars Peter Hansen	Champaign, Illinois		Lars Peter Hansen , Economics, 2013	2013	61
 	Economics	United States	1946-03-29		male	http://en.wikipedia.org/wiki/Robert_J._Shiller	Robert J. Shiller	Detroit ,  Michigan		Robert J. Shiller , Economics, 2013	2013	67
@@ -523,6 +519,7 @@ Germany	Physiology or Medicine	United Kingdom	1911-03-26	2003-04-20	male	http://
 	Chemistry	United Kingdom	1921-07-14	1996-09-26	male	http://en.wikipedia.org/wiki/Geoffrey_Wilkinson	Geoffrey Wilkinson	Springside ,  England	London ,  England	Geoffrey Wilkinson , Chemistry, 1973	1973	52
 	Physics	United Kingdom	1924-05-11		male	http://en.wikipedia.org/wiki/Antony_Hewish	Antony Hewish	Fowey, Cornwall		Antony Hewish , Physics, 1974	1974	50
 	Physics	United Kingdom	1918-09-27	1984-10-14	male	http://en.wikipedia.org/wiki/Martin_Ryle	Martin Ryle	Brighton ,  England	Cambridge ,  England	Martin Ryle , Physics, 1974	1974	56
+	Economics	United Kingdom	1899-05-08	1992-03-23	male	http://en.wikipedia.org/wiki/Friedrich_Hayek	Friedrich Hayek	Vienna, Austria-Hungary	Freiburg, Germany	Friedrich Hayek ,  born in Austria , Economics, 1974	1974	75
 	Chemistry	United Kingdom	1917-09-07	2013-12-08	male	http://en.wikipedia.org/wiki/John_Cornforth	John Cornforth	Sydney ,  Australia	England	John Cornforth ,  born in Australia , Chemistry, 1975	1975	58
 	Physics	United Kingdom	1905-09-30	1996-08-08	male	http://en.wikipedia.org/wiki/Nevill_Francis_Mott	Nevill Francis Mott	Leeds ,  England	Milton Keynes ,  Buckinghamshire ,  England	Nevill Francis Mott , Physics, 1977	1977	72
 	Economics	United Kingdom	1907-06-23	1995-12-22	male	http://en.wikipedia.org/wiki/James_Meade	James Meade	Swanage	Cambridge	James Meade , Economics, 1977	1977	70
@@ -544,11 +541,11 @@ United Kingdom	Economics	United Kingdom	1934-09-04	2009-05-27	male	http://en.wik
 Russia	Physics	United Kingdom	1974-08-23		male	http://en.wikipedia.org/wiki/Konstantin_Novoselov	Konstantin Novoselov	Nizhny Tagil ,  Russian SFSR ,  Soviet Union		Konstantin Novoselov ,  born in Russia , Physics, 2010	2010	36
 	Physiology or Medicine	United Kingdom	1933-10-02		male	http://en.wikipedia.org/wiki/John_Gurdon	John B. Gurdon	Dippenhall ,  Hampshire , England		John B. Gurdon , Physiology or Medicine, 2012	2012	79
 	Physics	United Kingdom	1929-05-29		male	http://en.wikipedia.org/wiki/Peter_Higgs	Peter Higgs	Newcastle upon Tyne, England, UK		Peter Higgs , Physics, 2013	2013	84
-South Africa	Chemistry	United Kingdom	1947-05-09		male	http://en.wikipedia.org/wiki/Michael_Levitt	Michael Levitt	Pretoria, South Africa		Michael Levitt ,  born in South Africa , Chemistry, 2013	2013	66
 United States	Physiology or Medicine	United Kingdom	1939-11-18		male	http://en.wikipedia.org/wiki/John_O%27Keefe_(neuroscientist)	John O'Keefe	New York City		John O'Keefe ,  born in the United States , Physiology or Medicine, 2014	2014	75
 	Literature	Turkey	1952-06-07		male	http://en.wikipedia.org/wiki/Orhan_Pamuk	Orhan Pamuk	Istanbul   Turkey		Orhan Pamuk , Literature, 2006	2006	54
 Trinidad and Tobago	Literature	Trinidad and Tobago	1932-08-17		male	http://en.wikipedia.org/wiki/V._S._Naipaul	V. S. Naipaul	Chaguanas,  Trinidad		V. S. Naipaul *, Literature, 2001	2001	69
 	Chemistry	Taiwan	1936-11-19		male	http://en.wikipedia.org/wiki/Yuan_Tseh_Lee	Yuan Tseh Lee	Hsinchu City ,  Taiwan		Yuan Tseh Lee , Chemistry, 1986	1986	50
+	Peace	Switzerland	1828-05-08	1910-10-30	male	http://en.wikipedia.org/wiki/Henry_Dunant	Henry Dunant	Geneva , Switzerland	Heiden, Switzerland	Henry Dunant , Peace, 1901	1901	73
 	Peace	Switzerland	1843-05-21	1914-03-16	male	http://en.wikipedia.org/wiki/Charles_Albert_Gobat	Charles Albert Gobat	Tramelan, Switzerland	Bern, Switzerland	Charles Albert Gobat , Peace, 1902	1902	59
 	Peace	Switzerland	1833-02-19	1906-12-07	male	http://en.wikipedia.org/wiki/%C3%89lie_Ducommun	Élie Ducommun			Élie Ducommun , Peace, 1902	1902	69
 	Physiology or Medicine	Switzerland	1841-08-25	1917-07-27	male	http://en.wikipedia.org/wiki/Emil_Theodor_Kocher	Theodor Kocher	Bern ,  Switzerland		Theodor Kocher , Physiology or Medicine, 1909	1909	68
@@ -561,12 +558,15 @@ Croatia	Chemistry	Switzerland	1887-09-13	1976-09-26	male	http://en.wikipedia.org
 	Physiology or Medicine	Switzerland	1899-01-12	1965-10-12	male	http://en.wikipedia.org/wiki/Paul_Hermann_M%C3%BCller	Paul Hermann Müller	Olten ,  Solothurn ,  Switzerland	Basel ,  Switzerland	Paul Hermann Müller , Physiology or Medicine, 1948	1948	49
 	Physiology or Medicine	Switzerland	1881-03-17	1973-08-12	male	http://en.wikipedia.org/wiki/Walter_Rudolf_Hess	Walter Rudolf Hess	Frauenfeld ,  Switzerland	Locarno   Switzerland	Walter Rudolf Hess , Physiology or Medicine, 1949	1949	68
 Poland	Physiology or Medicine	Switzerland	1897-07-20	1996-08-01	male	http://en.wikipedia.org/wiki/Tadeus_Reichstein	Tadeus Reichstein	Włocławek ,  Congress Poland	Basel ,  Switzerland	Tadeus Reichstein , Physiology or Medicine, 1950	1950	53
+	Physics	Switzerland	1905-10-23	1983-09-10	male	http://en.wikipedia.org/wiki/Felix_Bloch	Felix Bloch	Zürich , Switzerland	Zürich , Switzerland	Felix Bloch , Physics, 1952	1952	47
+	Physiology or Medicine	Switzerland	1907-03-23	1992-04-08	male	http://en.wikipedia.org/wiki/Daniel_Bovet	Daniel Bovet	Neuchâtel ,  Switzerland		Daniel Bovet , Physiology or Medicine, 1957	1957	50
 Bosnia and Herzegovina	Chemistry	Switzerland	1906-07-23	1998-01-07	male	http://en.wikipedia.org/wiki/Vladimir_Prelog	Vladimir Prelog	Sarajevo ,  Bosnia and Herzegovina , then part of  Austria-Hungary	Zürich ,  Switzerland	Vladimir Prelog ,  born in then Austria-Hungary, now Bosnia-Herzegovina , Chemistry, 1975	1975	69
 	Physiology or Medicine	Switzerland	1929-06-03		male	http://en.wikipedia.org/wiki/Werner_Arber	Werner Arber	Gränichen		Werner Arber , Physiology or Medicine, 1978	1978	49
 	Physiology or Medicine	Switzerland	1946-04-17	1995-03-01	male	http://en.wikipedia.org/wiki/Georges_J._F._K%C3%B6hler	Georges J. F. Köhler	Munich	Freiburg im Breisgau	Georges J. F. Köhler ,  born in Germany (worked in Switzerland for 1976 to 1984) , Physiology or Medicine, 1984	1976	30
 	Physics	Switzerland	1933-06-06	2013-05-16	male	http://en.wikipedia.org/wiki/Heinrich_Rohrer	Heinrich Rohrer	St. Gallen	Wollerau	Heinrich Rohrer , Physics, 1986	1986	53
 	Physics	Switzerland	1927-04-20		male	http://en.wikipedia.org/wiki/Karl_Alexander_M%C3%BCller	Karl Alexander Müller	Basel ,  Switzerland		Karl Alexander Müller , Physics, 1987	1987	60
 	Chemistry	Switzerland	1933-08-14		male	http://en.wikipedia.org/wiki/Richard_R._Ernst	Richard R. Ernst	Winterthur ,  Switzerland		Richard R. Ernst , Chemistry, 1991	1991	58
+	Physiology or Medicine	Switzerland	1920-04-06		male	http://en.wikipedia.org/wiki/Edmond_H._Fischer	Edmond H. Fischer	Shanghai ,  China		Edmond H. Fischer ,  born in China , Physiology or Medicine, 1992	1992	72
 	Physiology or Medicine	Switzerland	1944-01-06		male	http://en.wikipedia.org/wiki/Rolf_M._Zinkernagel	Rolf M. Zinkernagel	Riehen ,  Basel-Stadt ,  Switzerland		Rolf M. Zinkernagel , Physiology or Medicine, 1996	1996	52
 	Chemistry	Switzerland	1938-10-04		male	http://en.wikipedia.org/wiki/Kurt_W%C3%BCthrich	Kurt Wüthrich	Aarberg ,  Switzerland		Kurt Wüthrich , Chemistry, 2002	2002	64
 	Chemistry	Sweden	1859-02-19	1927-10-02	male	http://en.wikipedia.org/wiki/Svante_Arrhenius	Svante Arrhenius	Vik , Sweden	Stockholm , Sweden	Svante Arrhenius , Chemistry, 1903	1903	44
@@ -640,6 +640,7 @@ Peru	Literature	Peru	1936-03-28		male	http://en.wikipedia.org/wiki/Mario_Vargas_
 	Peace	Norway	1869-09-17	1938-12-11	male	http://en.wikipedia.org/wiki/Christian_Lous_Lange	Christian Lous Lange			Christian Lous Lange , Peace, 1921	1921	52
 	Peace	Norway	1861-10-10	1930-05-13	male	http://en.wikipedia.org/wiki/Fridtjof_Nansen	Fridtjof Nansen	Store Frøen,  Christiania , Norway	Polhøgda ,  Lysaker , Norway	Fridtjof Nansen , Peace, 1922	1922	61
 	Literature	Norway	1882-05-20	1949-06-10	female	http://en.wikipedia.org/wiki/Sigrid_Undset	Sigrid Undset	Kalundborg , Denmark	Lillehammer , Norway	Sigrid Undset , Literature, 1928	1928	46
+	Chemistry	Norway	1903-11-27	1976-10-05	male	http://en.wikipedia.org/wiki/Lars_Onsager	Lars Onsager	Christiania , ( Oslo ),  Norway	Coral Gables ,  Florida ,  U.S.	Lars Onsager , Chemistry, 1968	1968	65
 	Chemistry	Norway	1897-05-17	1981-05-11	male	http://en.wikipedia.org/wiki/Odd_Hassel	Odd Hassel	Kristiania ,  Norway		Odd Hassel , Chemistry, 1969	1969	72
 	Economics	Norway	1895-03-03	1973-01-31	male	http://en.wikipedia.org/wiki/Ragnar_Anton_Kittil_Frisch	Ragnar Anton Kittil Frisch	Oslo, Norway	Oslo, Norway	Ragnar Anton Kittil Frisch , Economics, 1969	1969	74
 	Physics	Norway	1929-04-05		male	http://en.wikipedia.org/wiki/Ivar_Giaever	Ivar Giaever	Bergen, Norway		Ivar Giaever , Physics, 1973	1973	44
@@ -677,9 +678,9 @@ Netherlands	Physiology or Medicine	Netherlands	1907-04-15	1988-12-21	male	http:/
 	Chemistry	Japan	1938-09-03		male	http://en.wikipedia.org/wiki/Ry%C5%8Dji_Noyori	Ryōji Noyori	Kobe, Japan		Ryōji Noyori , Chemistry, 2001	2001	63
 	Chemistry	Japan	1959-08-03		male	http://en.wikipedia.org/wiki/Koichi_Tanaka	Koichi Tanaka	Toyama, Japan		Koichi Tanaka , Chemistry, 2002	2002	43
 	Physics	Japan	1926-09-19		male	http://en.wikipedia.org/wiki/Masatoshi_Koshiba	Masatoshi Koshiba	Toyohashi ,  Aichi Prefecture ,  Japan		Masatoshi Koshiba , Physics, 2002	2002	76
-	Physics	Japan	1921-01-18		male	http://en.wikipedia.org/wiki/Yoichiro_Nambu	Yoichiro Nambu	Tokyo, Japan		Yoichiro Nambu , Physics, 2008	2008	87
 	Physics	Japan	1940-02-07		male	http://en.wikipedia.org/wiki/Toshihide_Maskawa	Toshihide Maskawa	Nagoya ,  Japan		Toshihide Maskawa , Physics, 2008	2008	68
 	Physics	Japan	1944-04-07		male	http://en.wikipedia.org/wiki/Makoto_Kobayashi_(physicist)	Makoto Kobayashi	Nagoya ,  Japan		Makoto Kobayashi , Physics, 2008	2008	64
+	Chemistry	Japan	1928-08-27		male	http://en.wikipedia.org/wiki/Osamu_Shimomura	Osamu Shimomura	Kyoto ,  Japan		Osamu Shimomura , Chemistry, 2008	2008	80
 	Chemistry	Japan	1930-09-12		male	http://en.wikipedia.org/wiki/Akira_Suzuki_(chemist)	Akira Suzuki	Mukawa, Hokkaidō ,  Japan		Akira Suzuki , Chemistry, 2010	2010	80
 	Physiology or Medicine	Japan	1962-09-04		male	http://en.wikipedia.org/wiki/Shinya_Yamanaka	Shinya Yamanaka	Higashiōsaka, Osaka , Japan		Shinya Yamanaka , Physiology or Medicine, 2012	2012	50
 	Physics	Japan	1929-01-01		male	http://en.wikipedia.org/wiki/Isamu_Akasaki	Isamu Akasaki			Isamu Akasaki , Physics, 2014	2014	85
@@ -691,12 +692,12 @@ Netherlands	Physiology or Medicine	Netherlands	1907-04-15	1988-12-21	male	http:/
 	Literature	Italy	1871-09-27	1936-08-15	female	http://en.wikipedia.org/wiki/Grazia_Deledda	Grazia Deledda	Nuoro , Italy	Rome, Italy	Grazia Deledda , Literature, 1926	1926	55
 	Literature	Italy	1867-06-28	1936-12-10	male	http://en.wikipedia.org/wiki/Luigi_Pirandello	Luigi Pirandello	Agrigento , Sicily, Italy	Rome, Italy	Luigi Pirandello , Literature, 1934	1934	67
 	Physics	Italy	1901-09-29	1954-11-28	male	http://en.wikipedia.org/wiki/Enrico_Fermi	Enrico Fermi	Rome, Italy	Chicago, Illinois, United States	Enrico Fermi , Physics, 1938	1938	37
-	Physiology or Medicine	Italy	1907-03-23	1992-04-08	male	http://en.wikipedia.org/wiki/Daniel_Bovet	Daniel Bovet	Neuchâtel ,  Switzerland		Daniel Bovet ,  born in Switzerland , Physiology or Medicine, 1957	1957	50
 	Physics	Italy	1905-01-30	1989-04-22	male	http://en.wikipedia.org/wiki/Emilio_G._Segr%C3%A8	Emilio G. Segrè	Tivoli ,  Italy	Lafayette, California ,  United States of America	Emilio G. Segrè , Physics, 1959	1959	54
 	Literature	Italy	1901-08-20	1968-06-14	male	http://en.wikipedia.org/wiki/Salvatore_Quasimodo	Salvatore Quasimodo	Modica ,  Sicily	Naples ,  Italy	Salvatore Quasimodo , Literature, 1959	1959	58
 	Chemistry	Italy	1903-02-26	1979-05-02	male	http://en.wikipedia.org/wiki/Giulio_Natta	Giulio Natta	Imperia ,  Italy	Bergamo ,  Italy	Giulio Natta , Chemistry, 1963	1963	60
 	Chemistry	Israel	1939-06-22		female	http://en.wikipedia.org/wiki/Ada_E._Yonath	Ada E. Yonath	Jerusalem		Ada E. Yonath , Chemistry, 2009	2009	70
 	Chemistry	Israel	1941-01-24		male	http://en.wikipedia.org/wiki/Dan_Shechtman	Dan Shechtman	Tel Aviv, Israel		Dan Shechtman , Chemistry, 2011	2011	70
+	Chemistry	Israel	1940-11-20		male	http://en.wikipedia.org/wiki/Arieh_Warshel	Arieh Warshel	Kibbutz Sde Nahum, Israel		Arieh Warshel , Chemistry, 2013	2013	73
 	Literature	Ireland	1865-06-13	1939-01-28	male	http://en.wikipedia.org/wiki/W._B._Yeats	W. B. Yeats	Sandymount ,  County Dublin	Menton , France	W. B. Yeats , Literature, 1923	1923	58
 Ireland	Literature	Ireland	1856-07-26	1950-11-02	male	http://en.wikipedia.org/wiki/George_Bernard_Shaw	George Bernard Shaw	Dublin, Ireland	Ayot St Lawrence	George Bernard Shaw *, Literature, 1925	1925	69
 	Physics	Ireland	1903-10-06	1995-06-25	male	http://en.wikipedia.org/wiki/Ernest_Walton	Ernest Walton	Abbeyside ,  County Waterford	Belfast	Ernest Walton , Physics, 1951	1951	48
@@ -721,7 +722,6 @@ Hungary	Physiology or Medicine	Hungary	1899-06-03	1972-06-13	male	http://en.wiki
 Hungary	Physics	Hungary	1900-06-05	1979-02-08	male	http://en.wikipedia.org/wiki/Dennis_Gabor	Dennis Gabor  (Gábor Dénes)	Budapest, Austria-Hungary	London, United Kingdom	Dennis Gabor * (Gábor Dénes), Physics, 1971	1971	71
 Hungary	Chemistry	Hungary	1927-05-22		male	http://en.wikipedia.org/wiki/George_Andrew_Olah	George Andrew Olah  (Oláh György)	Budapest ,  Hungary		George Andrew Olah * (Oláh György), Chemistry, 1994	1994	67
 	Literature	Hungary	1929-11-09		male	http://en.wikipedia.org/wiki/Imre_Kert%C3%A9sz	Imre Kertész	Budapest ,  Hungary		Imre Kertész , Literature, 2002	2002	73
-	Chemistry	Hungary	1937-12-31		male	http://en.wikipedia.org/wiki/Avram_Hershko	Avram Hershko	Karcag, Hungary		Avram Hershko , (Herskó Ferenc), Chemistry, 2004	2004	67
 	Literature	Guatemala	1899-10-19	1974-06-09	male	http://en.wikipedia.org/wiki/Miguel_%C3%81ngel_Asturias	Miguel Ángel Asturias	Guatemala City, Guatemala	Madrid, Spain	Miguel Ángel Asturias , Literature, 1967	1967	68
 	Peace	Guatemala	1959-01-09		female	http://en.wikipedia.org/wiki/Rigoberta_Mench%C3%BA	Rigoberta Menchú	Quiché ,  Guatemala		Rigoberta Menchú , Peace, 1992	1992	33
 	Literature	Greece	1900-03-13	1971-09-20	male	http://en.wikipedia.org/wiki/Giorgos_Seferis	Giorgos Seferis	Urla ,  Ottoman Empire	Athens , Greece	Giorgos Seferis , Literature, 1963	1963	63
@@ -782,10 +782,10 @@ Germany	Physics	Germany	1906-07-02	2005-03-06	male	http://en.wikipedia.org/wiki/
 	Chemistry	Germany	1936-10-10		male	http://en.wikipedia.org/wiki/Gerhard_Ertl	Gerhard Ertl	Bad Cannstatt ,  Germany		Gerhard Ertl , Chemistry, 2007	2007	71
 	Physiology or Medicine	Germany	1936-03-11		male	http://en.wikipedia.org/wiki/Harald_zur_Hausen	Harald zur Hausen	Gelsenkirchen ,  Germany		Harald zur Hausen , Physiology or Medicine, 2008	2008	72
 Romania	Literature	Germany	1953-08-17		female	http://en.wikipedia.org/wiki/Herta_M%C3%BCller	Herta Müller	Nițchidorf ,  Timiș County ,  Romania		Herta Müller ,  born in Romania , Literature, 2009	2009	56
+	Physiology or Medicine	Germany	1955-12-22		male	http://en.wikipedia.org/wiki/Thomas_C._S%C3%BCdhof	Thomas C. Südhof	Göttingen, Germany		Thomas C. Südhof , Physiology or Medicine, 2013	2013	58
 Romania	Chemistry	Germany	1962-12-23		male	http://en.wikipedia.org/wiki/Stefan_Hell	Stefan Hell	Arad ,  Romania		Stefan Hell ,  born in Romania , Chemistry, 2014	2014	52
 	Literature	France	1839-03-16	1907-09-06	male	http://en.wikipedia.org/wiki/Sully_Prudhomme	Sully Prudhomme	Paris, France	Châtenay-Malabry , France	Sully Prudhomme , Literature, 1901	1901	62
 	Peace	France	1822-05-20	1912-06-12	male	http://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Passy	Frédéric Passy	Paris ,  France	Paris ,  France	Frédéric Passy , Peace, 1901	1901	79
-	Peace	France	1828-05-08	1910-10-30	male	http://en.wikipedia.org/wiki/Henry_Dunant	Henry Dunant	Geneva , Switzerland	Heiden, Switzerland	Henry Dunant , Peace, 1901	1901	73
 	Physics	France	1859-05-15	1906-04-19	male	http://en.wikipedia.org/wiki/Pierre_Curie	Pierre Curie	Paris, France	Paris, France	Pierre Curie , Physics, 1903	1903	44
 	Physics	France	1852-12-15	1908-08-25	male	http://en.wikipedia.org/wiki/Henri_Becquerel	Antoine Henri Becquerel	Paris, France	Le Croisic , Brittany, France	Antoine Henri Becquerel , Physics, 1903	1903	51
 	Literature	France	1830-09-08	1914-03-25	male	http://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mistral	Frédéric Mistral	Maillane ,  France	Maillane ,  France	Frédéric Mistral , Literature, 1904	1904	74
@@ -838,6 +838,7 @@ Faroe Islands	Physiology or Medicine	Denmark	1860-12-15	1904-09-24	male	http://e
 	Literature	Denmark	1857-07-24	1943-08-21	male	http://en.wikipedia.org/wiki/Henrik_Pontoppidan	Henrik Pontoppidan	Fredericia, Denmark	Charlottenlund, Copenhagen, Denmark	Henrik Pontoppidan , Literature, 1917	1917	60
 	Peace	Costa Rica	1940-09-13		male	http://en.wikipedia.org/wiki/%C3%93scar_Arias	Óscar Arias Sánchez	Heredia, Costa Rica		Óscar Arias Sánchez , Peace, 1987	1987	47
 	Literature	Colombia	1927-03-06	2014-04-17	male	http://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez	Gabriel García Márquez	Aracataca ,  Magdalena Department , Colombia	Mexico City , Mexico	Gabriel García Márquez , Literature, 1982	1982	55
+	Physics	China	1922-09-22		male	http://en.wikipedia.org/wiki/Chen_Ning_Yang	Chen Ning Yang	Hefei ,  Anhui ,  China		Chen Ning Yang , Physics, 1957	1957	35
 	Peace	China	1935-07-06		male	http://en.wikipedia.org/wiki/Tenzin_Gyatso	Tenzin Gyatso	Taktser ,  Qinghai ,  Tibet		Tenzin Gyatso , Peace, 1989	1989	54
 	Peace	China	1955-12-28		male	http://en.wikipedia.org/wiki/Liu_Xiaobo	Liu Xiaobo	Changchun , Jilin, China		Liu Xiaobo , Peace, 2010	2010	55
 	Literature	China	1955-02-17		male	http://en.wikipedia.org/wiki/Mo_Yan	Mo Yan	Gaomi ,  Shandong ,  China		Mo Yan , Literature, 2012	2012	57
@@ -853,7 +854,7 @@ Germany	Chemistry	Canada	1904-12-25	1999-03-03	male	http://en.wikipedia.org/wiki
 United Kingdom	Chemistry	Canada	1932-04-26	2000-10-04	male	http://en.wikipedia.org/wiki/Michael_Smith_(chemist)	Michael Smith	Blackpool ,  England	Vancouver ,  British Columbia ,  Canada	Michael Smith ,  born in the United Kingdom , Chemistry, 1993	1993	61
 	Physics	Canada	1918-07-15	2003-10-13	male	http://en.wikipedia.org/wiki/Bertram_N._Brockhouse	Bertram N. Brockhouse	Lethbridge, Alberta	Hamilton, Ontario	Bertram N. Brockhouse , Physics, 1994	1994	76
 	Economics	Canada	1932-10-24		male	http://en.wikipedia.org/wiki/Robert_Mundell	Robert Mundell	Kingston, Ontario ,  Canada		Robert Mundell , Economics, 1999	1999	67
-	Physiology or Medicine	Canada	1952-11-09		male	http://en.wikipedia.org/wiki/Jack_W._Szostak	Jack W. Szostak	London ,  United Kingdom		Jack W. Szostak ,  born in the United Kingdom , Physiology or Medicine, 2009	2009	57
+	Physiology or Medicine	Canada	1943-01-14	2011-09-30	male	http://en.wikipedia.org/wiki/Ralph_M._Steinman	Ralph M. Steinman	Montreal, Quebec, Canada	New York City, New York, U.S.	Ralph M. Steinman , Physiology or Medicine, 2011	2011	68
 	Literature	Canada	1931-07-10		female	http://en.wikipedia.org/wiki/Alice_Munro	Alice Munro	Wingham, Ontario , Canada		Alice Munro , Literature, 2013	2013	82
 	Peace	Bangladesh	1940-06-28		male	http://en.wikipedia.org/wiki/Muhammad_Yunus	Muhammad Yunus	Chittagong ,  British India		Muhammad Yunus , Peace, 2006	2006	66
 	Physics	Azerbaijan	1908-01-22	1968-04-01	male	http://en.wikipedia.org/wiki/Lev_Landau	Lev Landau	Baku	Moscow	Lev Landau ,  born in then Russian Empire, laureate when citizen of the Soviet Union , Physics, 1962	1962	54
@@ -872,7 +873,6 @@ Austria	Physiology or Medicine	Austria	1873-06-03	1961-12-25	male	http://en.wiki
 	Chemistry	Austria	1914-05-19	2002-02-06	male	http://en.wikipedia.org/wiki/Max_F._Perutz	Max F. Perutz	Vienna , Austria	Cambridge , England	Max F. Perutz , Chemistry, 1962	1962	48
 Austria	Physiology or Medicine	Austria	1886-11-20	1982-06-12	male	http://en.wikipedia.org/wiki/Karl_von_Frisch	Karl von Frisch	Vienna, Austria	Munich ,  Germany	Karl von Frisch *, Physiology or Medicine, 1973	1973	87
 	Physiology or Medicine	Austria	1903-11-07	1989-02-27	male	http://en.wikipedia.org/wiki/Konrad_Lorenz	Konrad Lorenz	Vienna, Austria	Vienna, Austria	Konrad Lorenz , Physiology or Medicine, 1973	1973	70
-	Economics	Austria	1899-05-08	1992-03-23	male	http://en.wikipedia.org/wiki/Friedrich_Hayek	Friedrich Hayek	Vienna, Austria-Hungary	Freiburg, Germany	Friedrich Hayek , Economics, 1974	1974	75
 	Literature	Austria	1946-10-20		female	http://en.wikipedia.org/wiki/Elfriede_Jelinek	Elfriede Jelinek	Mürzzuschlag ,  Styria , Austria		Elfriede Jelinek , Literature, 2004	2004	58
 	Physiology or Medicine	Australia	1898-09-24	1968-02-21	male	http://en.wikipedia.org/wiki/Howard_Walter_Florey	Sir Howard Florey	Adelaide ,  South Australia	Oxford , United Kingdom	Sir Howard Florey , Physiology or Medicine, 1945	1945	47
 	Physiology or Medicine	Australia	1899-09-03	1985-08-31	male	http://en.wikipedia.org/wiki/Frank_Macfarlane_Burnet	Sir Frank Macfarlane Burnet	Traralgon, Victoria	Port Fairy, Victoria	Sir Frank Macfarlane Burnet , Physiology or Medicine, 1960	1960	61
